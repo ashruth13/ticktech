@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+
+}
+.footer-img{
+    height: 30px;
+    width: 30px;
+    margin-top: 20px;
+}
+.footer-main{
+    display: flex;
+    height: 88vh;
+    justify-content: flex-end;
+    align-items: flex-end;
+}

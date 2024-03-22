@@ -1,0 +1,30 @@
+.about-sub{
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.p{
+    margin-bottom: 50px;
+}
+.about-main{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 8px;
+    background-size: cover;
+}
+.b{
+    background-image: url("https://res.cloudinary.com/dgw2vopar/image/upload/f_auto,q_auto/rqasagtrix73whtvhxgl");
+    color: white;
+}
+.w{
+    background-image: url("https://res.cloudinary.com/dgw2vopar/image/upload/f_auto,q_auto/ofl2ny28kvhfn9v8f4hj");
+    color : black
+}
+.about-content{
+    padding-left: 24vw;
+    padding-right: 15vw;
+}
+.h1 {
+    margin-bottom: 0px;
+}
